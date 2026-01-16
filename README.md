@@ -1,2 +1,2 @@
-# PHP_ovning_2.1.1
+# PHP_ovning
 För lärande om php
